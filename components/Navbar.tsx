@@ -5,7 +5,6 @@ import { motion } from 'framer-motion'
 import { Menu, X } from 'lucide-react'
 import Link from 'next/link'
 import Image from 'next/image'
-import Logo from '../public/images/jkg_logo.png'
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false)
@@ -40,7 +39,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-20">
           <Link href="/" className="flex-shrink-0 flex items-center">
             <Image
-              src={Logo}
+              src="/images/jkg_logo.png"
               alt="JKG Developers"
               width={240}
               height={80}
