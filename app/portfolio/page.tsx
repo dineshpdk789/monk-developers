@@ -44,7 +44,7 @@ export default function Portfolio() {
     <main className="min-h-screen bg-white">
       <Navbar />
       
-      <section className="pt-32 pb-16 bg-gradient-to-br from-primary-50 to-white">
+      <section className="pt-32 pb-16pt-24 lg:pt-30 bg-gradient-to-br from-primary-50 to-white">
         <div className="container-custom">
           <div className="max-w-4xl mx-auto text-center">
             <motion.h6 

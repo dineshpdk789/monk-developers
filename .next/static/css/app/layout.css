@@ -1437,14 +1437,14 @@ video {
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
-.pb-16 {
-  padding-bottom: 4rem;
-}
 .pb-20 {
   padding-bottom: 5rem;
 }
 .pt-20 {
   padding-top: 5rem;
+}
+.pt-24 {
+  padding-top: 6rem;
 }
 .pt-32 {
   padding-top: 8rem;

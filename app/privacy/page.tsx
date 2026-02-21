@@ -7,12 +7,12 @@ const PrivacyPolicy = () => {
   return (
     <main className="min-h-screen bg-white">
       <Navbar />
-      <section className="section-padding bg-gradient-to-br from-primary-50 to-white">
+      <section className="section-padding pt-24 lg:pt-30 bg-gradient-to-br from-primary-50 to-white">
         <h1 className="text-3xl font-bold mb-8">Privacy Policy</h1>
         <p className="mb-4">
           This Privacy Policy explains how we collect, use, and safeguard your personal information when you use our website.
         </p>
-        {/* Add more sections as needed    djsfh */}
+        {/* Add more sections as needed */}
       </section>
       <Footer />
     </main>

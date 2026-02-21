@@ -50,8 +50,8 @@ export default function About() {
   return (
     <main className="min-h-screen bg-white">
       <Navbar />
-      
-      <section className="section-padding bg-gradient-to-br from-primary-50 to-white">
+      <section className="section-padding pt-24 lg:pt-30 bg-gradient-to-br from-primary-60 to-white">
+        {/* space between navabar and About JKG Developer */}
         <div className="container-custom">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl lg:text-6xl font-bold text-secondary-900 mb-6">

@@ -100,9 +100,9 @@ const Navbar = () => {
               <button className="w-full px-5 py-2 border-2 border-primary-600 text-primary-600 font-medium rounded-lg hover:bg-primary-50 transition-colors">
                 Hire Us
               </button>
-              <button className="w-full px-5 py-2 border-2 border-primary-600 text-primary-600 font-medium rounded-lg hover:bg-primary-50 transition-colors">
+              {/* <button className="w-full px-5 py-2 border-2 border-primary-600 text-primary-600 font-medium rounded-lg hover:bg-primary-50 transition-colors">
                 Client Login
-              </button>
+              </button> */}
             </div>
           </div>
         </motion.div>
