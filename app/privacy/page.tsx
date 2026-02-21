@@ -12,7 +12,7 @@ const PrivacyPolicy = () => {
         <p className="mb-4">
           This Privacy Policy explains how we collect, use, and safeguard your personal information when you use our website.
         </p>
-        {/* Add more sections as needed */}
+        {/* Add more sections as needed    djsfh */}
       </section>
       <Footer />
     </main>
