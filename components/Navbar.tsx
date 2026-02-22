@@ -39,7 +39,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-20">
           <Link href="/" className="flex-shrink-0 flex items-center">
             <Image
-              src="/images/jkg_logo.png"
+              src="/images/jkg_logo.jpg"
               alt="JKG Developers"
               width={240}
               height={80}
